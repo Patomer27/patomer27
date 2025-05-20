@@ -118,14 +118,13 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
+    height="200"  
     src="https://github-readme-stats.vercel.app/api?username=patomer27&include_all_commits=true&show_icons=true&theme=radical&locale=pt-br" 
   />
 
 <img  
       alt="GitHub Stats" 
-      height="180" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=patomer27&include_all_commits=true&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
