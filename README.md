@@ -20,7 +20,7 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/patomer27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/patomer27?color=236ad3&labelColor=1155ba&style=for-the-badge&label=Seguidores&logo=github&logoColor=white"
         />
     </a>
     <a href="https://github.com/Patomer27?tab=repositories">
@@ -126,7 +126,7 @@
 <img  
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patomer27&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=patomer27&layout=compact&theme=radical&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
