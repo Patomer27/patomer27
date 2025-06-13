@@ -10,7 +10,7 @@
 <p align="left">
    <a href="https://www.instagram.com/luidi_27/?__pwa=1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </a>
-    <a href="https://github.com/patomer27?tab=repositories&sort=stargazers">
+    <a href="https://github.com/patomer?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
