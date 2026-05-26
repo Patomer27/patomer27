@@ -2,10 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Sou o Luidi tenho 16 anos <br>
-🎓 Técnico em Informática 3º ano <br>
+👋 Sou o Luidi tenho 17 anos <br>
+🎓 Técnico em Informática <br>
 💻 Viciado em criar coisas com código <br>
-🎮 Viciado em animes, games e na cultura streetwear underground <br>
+
 
 
 
